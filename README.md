@@ -1,5 +1,5 @@
 # Welcome to My Profile! 👋
-![https://t.me/MikkyBoy](https://­img.shields.io/badge/­telegram-MikkyBoy-blue) ![](https://­img.shields.io/badge/­main-php-blue) ![https://quiec.tech/](https://­img.shields.io/badge/­my-blog-purple) ![Profile views](https://­gpvc.arturio.dev/­quiec)
+![https://t.me/MikkyBoy](https://­img.shields.io/badge/­telegram-MikkyBoy-blue) ![](https://­img.shields.io/badge/­main-php-blue) ![Profile views](https://­gpvc.arturio.dev/­mikkyboy2005)
 
 Hello! My name is **Michael Olusegun**. I am a **Software Engineer**. I started learning programming in 2018. I started by learning **Python**, then **JavaScript** and **Dart*. My goal is to write quality codes that inspire.
 
