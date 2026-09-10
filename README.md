@@ -15,9 +15,6 @@
   </a>&nbsp;
   <a href="mailto:michaelolusegun357@gmail.com">
     <img src="https://img.shields.io/badge/email%20me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>&nbsp;
-  <a href="https://medium.com/@MikkyBoy357">
-    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </p>
 
@@ -84,7 +81,7 @@ The interesting part is trust. Every score is validated server-side: sessions ar
 
 ## 🛠️ A bit more about the work
 
-- **Payments at the edges of the phone.** NFC tap-to-pay and ticketing running in live venues, and voice-assistant purchasing through **SiriKit** and **Google Assistant** — including recurring intents, so a standing instruction like "buy my usual coffee every weekday morning" runs on its own.
+- **Payments at the edges of the phone.** NFC tap-to-pay and ticketing running in live venues, and voice-assistant purchasing through **SiriKit** and **Google Assistant** — including recurring intents, so a standing instruction like "buy my usual coffee every weekday morning" runs on its own. I wrote up the Android side: [Implementing Google App Actions in Android](https://medium.com/@MikkyBoy357/implementing-google-app-actions-in-android-project-shortcuts-xml-741a6fb01ca8).
 - **Cross-platform, properly.** One Flutter codebase shipped to iOS, Android, and web at feature parity, on Clean Architecture with a Melos-managed monorepo.
 - **Built for people who don't use software.** As founding engineer on a B2B FMCG platform in the Middle East, my users were shop owners and sales reps, many of them older and non-technical. That set the design bar. The business was later acquired.
 - **Remote since 2021** across UK, EU, and MENA teams.
